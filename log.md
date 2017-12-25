@@ -25,3 +25,14 @@ Day 1: Sunday December 24, 2017
 
 **Link to tweet**
 [Naufaldi Day 1](https://twitter.com/F2aldi/status/944903855740919809)
+<br>
+<h2 align="center">
+Day 2: Monday December 25, 2017
+</h2>
+ 
+**Today's Progress**: Continue learning javascript in wesbos. from 23  untul 27 Video. Got so many distruction like playing twitter and reading some book. Learning about Event,propagation, make some dropdown and click and drag.
+
+**Thoughts**  : Yes, i need more focus to learning this video. Because i think, i can finish this 30 Day Javascript this day.
+
+**Link to tweet**
+[Naufaldi Day 2](https://twitter.com/F2aldi/status/945342408413155328)
