@@ -27,7 +27,7 @@ Day 1: Sunday December 24, 2017
 [Naufaldi Day 1](https://twitter.com/F2aldi/status/944903855740919809)
 <br>
 <h2 align="center">
-Day 2: Monday December 25, 2017
+Day 3: Thuesday December 28, 2017
 </h2>
  
 **Today's Progress**: Continue learning javascript in wesbos. from 23  until 27 Video. Got so many distruction like playing twitter and reading some book. Learning about Event,propagation, make some dropdown and click and drag.
