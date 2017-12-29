@@ -46,7 +46,21 @@ Day 3: Thuesday December 28, 2017
 **Today's Progress**: Continue learning javascript in wesbos. Now i am in 27th video and still watch and learning until 30 Video. Hope this day can reach it
 
 **Thoughts**  : Because i am in myvillage, its really hard to get some connection to internet. in myvillage there is no signal even for 3G and mywifi still using speedy(copper cable not fiber optic). This make me unproductive.
+
 **Link to tweet**
 [Naufaldi Day 3](https://twitter.com/F2aldi/status/946386609238196224)
+
+
+<br>
+<h2 align="center">
+Day 4: Friday December 29, 2017
+</h2>
+ 
+**Today's Progress**: Continue learning javascript in wesbos. Now i am in 29th video and still watch and learning until 30 Video. Hope this day can reach it. Really i hope can reach until Video 30th.
+
+**Thoughts**  : Myfamily doing some traveling in this day. i am confuse, if still i can code in this day? But, finally can reach one hours for code! Thanks.
+
+**Link to tweet**
+[Naufaldi Day 3](https://twitter.com/F2aldi/status/946774415265509377)
 
 
