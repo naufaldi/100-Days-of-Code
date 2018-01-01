@@ -61,6 +61,32 @@ Day 4: Friday December 29, 2017
 **Thoughts**  : Myfamily doing some traveling in this day. i am confuse, if still i can code in this day? But, finally can reach one hours for code! Thanks.
 
 **Link to tweet**
-[Naufaldi Day 3](https://twitter.com/F2aldi/status/946774415265509377)
+[Naufaldi Day 4](https://twitter.com/F2aldi/status/946774415265509377)
+
+<br>
+<h2 align="center">
+Day 5: Saturday December 30, 2017
+</h2>
+ 
+**Today's Progress**: Learning JSON Tutorial for beginner , about how to program json with ajax
+
+**Thoughts**  : Problem in connection. because i cant upload mycode to github :(
+
+**Link to tweet**
+[Naufaldi Day 5](https://twitter.com/F2aldi/status/946996828217544704)
+
+
+<br>
+<h2 align="center">
+Day 6: Monday January 1, 2018
+</h2>
+ 
+**Today's Progress**: continue Learning JSON Tutorial for beginner , about how to program json with ajax
+
+
+**Thoughts**  :  Problem in connection. because i cant upload mycode to github :(
+
+**Link to tweet**
+[Naufaldi Day 6](https://twitter.com/F2aldi/status/947856413061038080)
 
 
