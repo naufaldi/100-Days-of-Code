@@ -89,4 +89,41 @@ Day 6: Monday January 1, 2018
 **Link to tweet**
 [Naufaldi Day 6](https://twitter.com/F2aldi/status/947856413061038080)
 
+<br>
+<h2 align="center">
+Day 7: Tuesday January 2, 2018
+</h2>
+ 
+**Today's Progress**: Learning Flexbox aand CSS30 tutoril from code college
+
+
+**Thoughts**  :  Some time dont understand about flexbox. and keep trying bout how flexbox work
+**Link to tweet**
+[Naufaldi Day 7](https://twitter.com/F2aldi/status/948574468162514944)
+
+<br>
+<h2 align="center">
+Day 8: Wenesday January 3, 2018
+</h2>
+ 
+**Today's Progress**: Learning Flexbox aand CSS30 tutoril from code college
+
+
+**Thoughts**  :  Some time dont understand about flexbox. and keep trying bout how flexbox work
+
+**Link to tweet**
+[Naufaldi Day 8](https://twitter.com/F2aldi/status/948574468162514944)
+
+<br>
+<h2 align="center">
+Day 9: Thuesday January 4, 2018
+</h2>
+ 
+**Today's Progress**: Learning Flexbox aand CSS30 tutorial from code college. Video 1 Funcy Button
+
+
+**Thoughts**  :  Learning Flexbox aand CSS30 tutorail from code college. Myproblem is about understnding how make some color like HSL.
+
+**Link to tweet**
+[Naufaldi Day 9](https://twitter.com/F2aldi/status/948574468162514944)
 
