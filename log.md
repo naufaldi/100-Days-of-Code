@@ -125,5 +125,5 @@ Day 9: Thuesday January 4, 2018
 **Thoughts**  :  Learning Flexbox aand CSS30 tutorail from code college. Myproblem is about understnding how make some color like HSL.
 
 **Link to tweet**
-[Naufaldi Day 9](https://twitter.com/F2aldi/status/948574468162514944)
+[Naufaldi Day 9](https://twitter.com/F2aldi/status/948124558850121729)
 
