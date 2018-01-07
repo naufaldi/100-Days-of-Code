@@ -127,3 +127,16 @@ Day 9: Thuesday January 4, 2018
 **Link to tweet**
 [Naufaldi Day 9](https://twitter.com/F2aldi/status/948124558850121729)
 
+<br>
+<h2 align="center">
+Day 10: Thuesday January 5, 2018
+</h2>
+ 
+**Today's Progress**:  CSS30 tutorial from code college. Video  3 until 4.
+
+
+**Thoughts**  :  I get some distraction. because its weaking. i want play some game lol.
+
+**Link to tweet**
+[Naufaldi Day 10](https://twitter.com/F2aldi/status/948962740764229632)
+
