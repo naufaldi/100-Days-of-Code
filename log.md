@@ -194,7 +194,7 @@ Day 14: Thuesday January 10, 2018
 
 <br>
 <h2 align="center">
-Day 11: Thuesday January 7, 2018
+Day 15: Thuesday January 11, 2018
 </h2>
  
 **Today's Progress**:  Finish building Music Catty App using flexbox and make it responsive
