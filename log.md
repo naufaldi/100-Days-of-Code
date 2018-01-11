@@ -142,7 +142,7 @@ Day 10: Thuesday January 5, 2018
 
 <br>
 <h2 align="center">
-Day 11: Thuesday January 7, 2018
+Day 11: Sunday January 7, 2018
 </h2>
  
 **Today's Progress**:  CSS30 tutorial from code college. Video  5 until 6.
@@ -152,4 +152,56 @@ Day 11: Thuesday January 7, 2018
 
 **Link to tweet**
 [Naufaldi Day 11](https://twitter.com/F2aldi/status/950045591471497217)
+
+<br>
+<h2 align="center">
+Day 12: Monday January 8, 2018
+</h2>
+ 
+**Today's Progress**:  earning Flexbox, learning how to build navbar only with flexbox, and reading understanding flexbox in medium its amazing! 
+
+
+**Thoughts**  :  sometime dont understand hgow flex property work
+
+**Link to tweet**
+[Naufaldi Day 12](https://twitter.com/F2aldi/status/950400215168659456)
+
+<br>
+<h2 align="center">
+Day 13: Thuesday January 9, 2018
+</h2>
+ 
+**Today's Progress**:  here i am just continue learning using flexbox for building some web.
+
+
+**Thoughts**  :  need more learning about flexbox-direction
+
+**Link to tweet**
+[Naufaldi Day 13](https://twitter.com/F2aldi/status/950770982351859713)
+
+<br>
+<h2 align="center">
+Day 14: Thuesday January 10, 2018
+</h2>
+ 
+**Today's Progress**:  Starting building Music Catty App using flexbox
+
+
+**Thoughts**  :  dont really understand how flexbox can make two other side between 1a and 1b
+
+**Link to tweet**
+[Naufaldi Day 14](https://twitter.com/F2aldi/status/951494864666902528)
+
+<br>
+<h2 align="center">
+Day 11: Thuesday January 7, 2018
+</h2>
+ 
+**Today's Progress**:  Finish building Music Catty App using flexbox and make it responsive
+
+
+**Thoughts**  :  reallyt hard to make it responsive
+
+**Link to tweet**
+[Naufaldi Day 15](https://twitter.com/F2aldi/status/951494864666902528)
 
