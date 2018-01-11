@@ -129,7 +129,7 @@ Day 9: Thuesday January 4, 2018
 
 <br>
 <h2 align="center">
-Day 10: Thuesday January 5, 2018
+Day 10: Thursday January 5, 2018
 </h2>
  
 **Today's Progress**:  CSS30 tutorial from code college. Video  3 until 4.
@@ -168,7 +168,7 @@ Day 12: Monday January 8, 2018
 
 <br>
 <h2 align="center">
-Day 13: Thuesday January 9, 2018
+Day 13: Tuesday January 9, 2018
 </h2>
  
 **Today's Progress**:  here i am just continue learning using flexbox for building some web.
@@ -181,7 +181,7 @@ Day 13: Thuesday January 9, 2018
 
 <br>
 <h2 align="center">
-Day 14: Thuesday January 10, 2018
+Day 14: Wednesday January 10, 2018
 </h2>
  
 **Today's Progress**:  Starting building Music Catty App using flexbox
