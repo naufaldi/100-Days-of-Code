@@ -205,3 +205,30 @@ Day 15: Thuesday January 11, 2018
 **Link to tweet**
 [Naufaldi Day 15](https://twitter.com/F2aldi/status/951494864666902528)
 
+<br>
+<h2 align="center">
+Day 16: Friday January 12, 2018
+</h2>
+ 
+**Today's Progress**:  Meet client for discuss about project we created and than discuss with team, what we will to do next
+
+
+**Thoughts**  :  i get stuck when negosiated with my client about this project. Hope i can learnig about negosiation.
+
+**Link to tweet**
+[Naufaldi Day 16](https://twitter.com/F2aldi/status/951494864666902528)
+
+
+<br>
+<h2 align="center">
+Day 17: Monday January 15, 2018
+</h2>
+ 
+**Today's Progress**:  Finishing learning Flexbox from medium
+
+**Thoughts**  :  Still cant make flexbox as grid and take stuck 
+
+**Link to tweet**
+[Naufaldi Day 17](https://twitter.com/F2aldi/status/953128022869204992)
+
+
