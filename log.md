@@ -207,7 +207,7 @@ Day 15: Thuesday January 11, 2018
 
 <br>
 <h2 align="center">
-Day 16: Friday January 12, 2018
+Day 16: Friday January 15, 2018
 </h2>
  
 **Today's Progress**:  Meet client for discuss about project we created and than discuss with team, what we will to do next
@@ -221,7 +221,7 @@ Day 16: Friday January 12, 2018
 
 <br>
 <h2 align="center">
-Day 17: Monday January 15, 2018
+Day 17: Monday January 16, 2018
 </h2>
  
 **Today's Progress**:  Finishing learning Flexbox from medium
@@ -229,6 +229,30 @@ Day 17: Monday January 15, 2018
 **Thoughts**  :  Still cant make flexbox as grid and take stuck 
 
 **Link to tweet**
-[Naufaldi Day 17](https://twitter.com/F2aldi/status/953128022869204992)
+[Naufaldi Day 17](https://twitter.com/F2aldi/status/953268942239186945)
+
+<br>
+<h2 align="center">
+Day 18: Monday January 17, 2018
+</h2>
+ 
+**Today's Progress**:  Continue learning CSS30 from video 11 until 14 and this day, i am attended Meetup #scrum Chapter Malang. and i hope, i can apprenticeship in some startup or software house in Malang.
+
+**Thoughts**  :  time to understand about scrum and CSS3
+
+**Link to tweet**
+[Naufaldi Day 18](https://twitter.com/F2aldi/status/953663531144138752)
+
+<br>
+<h2 align="center">
+Day 19: Monday January 18, 2018
+</h2>
+ 
+**Today's Progress**:  Continue CSS30 from video 14-16 and code for random quote machine freecode camp
+
+**Thoughts**  : Still learning to make css more beautifull
+
+**Link to tweet**
+[Naufaldi Day 19](https://twitter.com/F2aldi/status/954023174332604416)
 
 
