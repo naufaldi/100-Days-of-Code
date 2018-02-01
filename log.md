@@ -256,3 +256,64 @@ Day 19: Monday January 18, 2018
 [Naufaldi Day 19](https://twitter.com/F2aldi/status/954023174332604416)
 
 
+<br>
+<h2 align="center">
+Day 20: Monday January 20, 2018
+</h2>
+ 
+**Today's Progress**:  continue build Random Quote Machine #freecodecamp with flexbox and now going to build JS and take API for quote machine and read this
+**Thoughts**  : placing flexbox, customizing css
+
+**Link to tweet**
+[Naufaldi Day 20](https://twitter.com/F2aldi/status/955111575660085254
+
+
+<br>
+<h2 align="center">
+Day 21: Monday January 21, 2018
+</h2>
+ 
+**Today's Progress**:  continue build Random Quote Machine #freecodecamp with flexbox and now going to build JS and take API for quote machine and read this
+**Thoughts**  : placing flexbox, customizing css
+
+**Link to tweet**
+[Naufaldi Day 21](https://twitter.com/F2aldi/status/955111575660085254)
+
+<br>
+<h2 align="center">
+Day 22: Monday January 22, 2018
+</h2>
+ 
+**Today's Progress**:  finish Random Quote Machine for #freecodecamp with flexbox and now going to build Local Weather, But i have problem. Why myflexbox cant be center vertikal and horizontal?
+
+**Thoughts**  : problem make flexbox cant vertikal and horizontal
+
+**Link to tweet**
+[Naufaldi Day 22](https://twitter.com/F2aldi/status/955461291765784577)
+
+<br>
+<h2 align="center">
+Day 23: Monday January 24, 2018
+</h2>
+ 
+**Today's Progress**:  trying user yarn and gulp for Front End Development workflow for Weather Apps for @freeCodeCamp . hope can finish this set up and going to design this app
+
+**Thoughts**  : problem with task runner and webpack
+
+**Link to tweet**
+[Naufaldi Day 24](https://twitter.com/F2aldi/status/955855220302475269)
+
+
+
+<br>
+<h2 align="center">
+Day 01: Friday Februari 2, 2018
+</h2>
+ 
+**Today's Progress**: finish CSS Weather Apps and try elarning JSON and API from weather https://openweathermap.org
+
+**Thoughts**  : problem about API Key and get stuck in webpack
+
+**Link to tweet**
+[Naufaldi Day 1](https://twitter.com/F2aldi/status/959168655702466560)
+
