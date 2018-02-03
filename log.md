@@ -317,3 +317,28 @@ Day 01: Friday Februari 2, 2018
 **Link to tweet**
 [Naufaldi Day 1](https://twitter.com/F2aldi/status/959168655702466560)
 
+
+<br>
+<h2 align="center">
+Day 02: Saturday Februari 3, 2018
+</h2>
+ 
+**Today's Progress**: Continu Learning about CSS30 start in video 17
+
+**Thoughts**  : Confusing about ::after and ::before
+
+**Link to tweet**
+[Naufaldi Day 2](https://twitter.com/F2aldi/status/959831686727913472)
+
+<br>
+<h2 align="center">
+Day 03: Friday Februari 4, 2018
+</h2>
+ 
+**Today's Progress**: Continue in Video 18 CSS30
+
+**Thoughts**  : Understanding about CSS Positioning
+
+**Link to tweet**
+[Naufaldi Day 3](https://twitter.com/F2aldi/status/959168655702466560)
+
