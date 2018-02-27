@@ -342,3 +342,97 @@ Day 03: Friday Februari 4, 2018
 **Link to tweet**
 [Naufaldi Day 3](https://twitter.com/F2aldi/status/959168655702466560)
 
+<br>
+
+<h2 align="center">
+Day 04: Tuesday Februari 06, 2018
+</h2>
+ 
+**Today's Progress**: LLearning CSS30 from video 18 to 20. Hope do the best this day. 
+
+**Thoughts**  : Try to get a job but fail bcs dont have experience tio build react js for production 
+
+**Link to tweet**
+[Naufaldi Day 04](https://twitter.com/F2aldi/status/960914098115395584)
+
+
+<br>
+
+<h2 align="center">
+Day 05: Wednesday Februari 07, 2018
+</h2>
+ 
+**Today's Progress**: Learning CSS30 from video 21 Until 25 right now but i will keep going until video 30
+
+
+**Thoughts**  : Understand CSS Rule
+
+**Link to tweet**
+[Naufaldi Day 05](https://twitter.com/F2aldi/status/961639392002564096)
+
+<br>
+
+<h2 align="center">
+Day 06: Thursday Februari 08, 2018
+</h2>
+ 
+**Today's Progress**: Learning CSS30 from video 21 Until 25 right now but i will keep going until video 30
+
+
+**Thoughts**  : Understand CSS Rule
+
+**Link to tweet**
+[Naufaldi Day 06](https://twitter.com/F2aldi/status/961639392002564096)
+
+
+<h2 align="center">
+Day 07: Tuesday Februari 13, 2018
+</h2>
+ 
+**Today's Progress**: Starting learning about CSS Animation and Transition in Udemy Course. Hope can finish and understand about it
+
+
+**Thoughts**  : Transition in time
+
+**Link to tweet**
+[Naufaldi Day 07](https://twitter.com/F2aldi/status/963096163497881600)
+
+<br>
+<h2 align="center">
+Day 08: Wednesday Februari 14, 2018
+</h2>
+ 
+**Today's Progress**: Continue Learning from Udemy Course. This day learning about CSS Animation , Keyframes and take exercise from course. 
+Hope today can more productive and finish some exercise
+
+**Thoughts**  : Understanding position in keyframe
+
+**Link to tweet**
+[Naufaldi Day 08](https://twitter.com/F2aldi/status/963528996158763008)
+
+
+<br>
+<h2 align="center">
+Day 09: Monday Februari 26, 2018
+</h2>
+ 
+**Today's Progress**: Learning about git from Channel FreecodeCamp and continue learning udemy course
+
+**Thoughts**  : dont to much understand about merge code
+
+**Link to tweet**
+[Naufaldi Day 09](https://twitter.com/F2aldi/status/967967985167036416)
+
+
+<br>
+<h2 align="center">
+Day 10: Wednesday Februari 28, 2018
+</h2>
+ 
+**Today's Progress**: Continue learning from udemy course. and get in flexbox now(again)
+
+**Thoughts**  : Get Distraction from friend.
+
+**Link to tweet**
+[Naufaldi Day 10](https://twitter.com/F2aldi/status/968552630577381376)
+
