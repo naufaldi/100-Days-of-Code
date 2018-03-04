@@ -445,7 +445,7 @@ Day 11: Sunday Mart 04, 2018
 
 **Thoughts**  : Get Distraction from friend, doing too many time in social media
 
-<img src="http://res.cloudinary.com/cynux/image/upload/v1520193057/code.png" alt="Code" class="inline"/ width="100px">
+![Code](http://res.cloudinary.com/cynux/image/upload/v1520193057/code.png)
 
 **Link to tweet**
 [Naufaldi Day 10](https://twitter.com/F2aldi/status/970380840109727744)
