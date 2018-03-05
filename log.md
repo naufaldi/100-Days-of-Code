@@ -450,3 +450,17 @@ Day 11: Sunday Mart 04, 2018
 **Link to tweet**
 [Naufaldi Day 10](https://twitter.com/F2aldi/status/970380840109727744)
 
+<br>
+<h2 align="center">
+Day 12: Monday Mart 05, 2018
+</h2>
+ 
+**Today's Progress**:  Code Continue learning from udemy course about make layout using flexbox and take learning from popcast https://tehataukopi.club/
+
+**Thoughts**  : have meeting about other proyek
+
+
+**Link to tweet**
+[Naufaldi Day 11](https://twitter.com/F2aldi/status/970693592086753281)
+
+
