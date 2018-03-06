@@ -448,7 +448,7 @@ Day 11: Sunday Mart 04, 2018
 ![Code](http://res.cloudinary.com/cynux/image/upload/v1520193057/code.png)
 
 **Link to tweet**
-[Naufaldi Day 10](https://twitter.com/F2aldi/status/970380840109727744)
+[Naufaldi Day 11](https://twitter.com/F2aldi/status/970380840109727744)
 
 <br>
 <h2 align="center">
@@ -461,6 +461,20 @@ Day 12: Monday Mart 05, 2018
 
 
 **Link to tweet**
-[Naufaldi Day 11](https://twitter.com/F2aldi/status/970693592086753281)
+[Naufaldi Day 12](https://twitter.com/F2aldi/status/970693592086753281)
+
+<br>
+<h2 align="center">
+Day 13: Tuesday Mart 06, 2018
+</h2>
+ 
+**Today's Progress**:  Continue learning from udemy course about flexbox. take exercise about make holly rail using flexbox. 
+
+**Thoughts**  : hard to focus for code 
+
+
+**Link to tweet**
+[Naufaldi Day 13](https://twitter.com/F2aldi/status/971049759610871808)
+
 
 
