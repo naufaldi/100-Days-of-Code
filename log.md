@@ -477,4 +477,73 @@ Day 13: Tuesday Mart 06, 2018
 [Naufaldi Day 13](https://twitter.com/F2aldi/status/971049759610871808)
 
 
+<br>
+<h2 align="center">
+Day 14: Tuesday Mart 12, 2018
+</h2>
+ 
+**Today's Progress**:  Doing myown project from other company. but get stuck to how print from web without open dialog box print and make style for printing page. Its CRAZY. 
+
+**Thoughts**  : hard to focus for code 
+
+
+**Link to tweet**
+[Naufaldi Day 14](https://twitter.com/F2aldi/status/971800575464501249)
+
+
+<br>
+<h2 align="center">
+Day 15: Tuesday Mart 13, 2018
+</h2>
+ 
+**Today's Progress**:  Continue Udemy Course, now in callback function and Asyncronus.
+
+**Thoughts**  : this is really crazy, hard to understand about callback function. 
+
+
+**Link to tweet**
+[Naufaldi Day 13](https://twitter.com/F2aldi/status/973298081486655488)
+
+<br>
+<h2 align="center">
+Day 16: Mart 14, 2018
+</h2>
+ 
+**Today's Progress**:  continue learning about callback function and promise in javascript
+
+**Thoughts**  : this is really crazy, hard to understand about callback and promise function. 
+
+
+**Link to tweet**
+[Naufaldi Day 16](https://twitter.com/F2aldi/status/973966817457684480)
+
+<br>
+<h2 align="center">
+Day 17: Mart 24, 2018
+</h2>
+ 
+**Today's Progress**:  Learning about server, mail server and web server.
+Than continue learning about API
+
+**Thoughts**  : this is really crazy, hard to understand about server, mail server and web server.
+Than continue learning about API
+
+
+**Link to tweet**
+[Naufaldi Day 17](https://twitter.com/F2aldi/status/977295008217772032)
+
+
+<br>
+<h2 align="center">
+Day 18 Mart 26, 2018
+</h2>
+ 
+**Today's Progress**:  Learning about API, Linux and then continue learning udemy course from Exercise about API Bitcoin
+
+**Thoughts**  : this is really crazy, hard to understand about  API
+
+
+**Link to tweet**
+[Naufaldi Day 18](https://twitter.com/F2aldi/status/977295008217772032)
+
 
