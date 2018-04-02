@@ -546,4 +546,46 @@ Day 18 Mart 26, 2018
 **Link to tweet**
 [Naufaldi Day 18](https://twitter.com/F2aldi/status/977295008217772032)
 
+<br>
+<h2 align="center">
+Day 19 : Mart 27, 2018
+</h2>
+ 
+**Today's Progress**:  Learning about API, Fetch data, hope today can reach until Jquery and Axios
+
+**Thoughts**  : BAD MOOD
+
+
+**Link to tweet**
+[Naufaldi Day 19](https://twitter.com/F2aldi/status/978588458288476160)
+
+<br>
+<h2 align="center">
+Day 20 : Mart 28, 2018
+</h2>
+ 
+**Today's Progress**:  Learning about fetch and practice then learning ajax and axios
+
+**Thoughts**  : Try to make new habits
+
+
+**Link to tweet**
+[Naufaldi Day 20](https://twitter.com/F2aldi/status/979023450969800704)
+
+
+
+<br>
+<h2 align="center">
+Day 21 : April 02, 2018
+</h2>
+ 
+**Today's Progress**:  Finish learning about 4 ways of writing AJAX requests, Fetch, Jquery, axios and XHR
+now continue other course about "Testing with jasmine"
+
+**Thoughts**  : Try to make new habits
+
+
+**Link to tweet**
+[Naufaldi Day 21](https://twitter.com/F2aldi/status/980809958701776896)
+
 
