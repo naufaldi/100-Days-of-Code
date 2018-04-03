@@ -589,3 +589,16 @@ now continue other course about "Testing with jasmine"
 [Naufaldi Day 21](https://twitter.com/F2aldi/status/980809958701776896)
 
 
+<br>
+<h2 align="center">
+Day 22 : April 03, 2018
+</h2>
+ 
+**Today's Progress**:  Finish learning jasmine and now continue learning about Advanced Method Array like forEach, map, some and every
+
+**Thoughts**  : Try to make new habits
+
+
+**Link to tweet**
+[Naufaldi Day 22](https://twitter.com/F2aldi/status/981205304841924608)
+
