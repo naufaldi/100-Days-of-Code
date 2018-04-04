@@ -602,3 +602,15 @@ Day 22 : April 03, 2018
 **Link to tweet**
 [Naufaldi Day 22](https://twitter.com/F2aldi/status/981205304841924608)
 
+<br>
+<h2 align="center">
+Day 23 : April 04, 2018
+</h2>
+ 
+**Today's Progress**:  Learning Advance Array method like map,filter,some and every.
+
+**Thoughts**  : Try to make new habits
+
+
+**Link to tweet**
+[Naufaldi Day 23](https://twitter.com/F2aldi/status/981564911502282759)
