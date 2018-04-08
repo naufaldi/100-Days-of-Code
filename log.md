@@ -614,3 +614,30 @@ Day 23 : April 04, 2018
 
 **Link to tweet**
 [Naufaldi Day 23](https://twitter.com/F2aldi/status/981564911502282759)
+
+<br>
+<h2 align="center">
+Day 24 : April 06, 2018
+</h2>
+ 
+**Today's Progress**:  https://twitter.com/F2aldi/status/981943146182397952
+**Thoughts**  : Try to make new habits
+
+
+**Link to tweet**
+[Naufaldi Day 24](https://twitter.com/F2aldi/status/981943146182397952)
+
+
+<br>
+<h2 align="center">
+Day 25 : April 08, 2018
+</h2>
+ 
+**Today's Progress**:  Finishing learning about new,bind,apply,call, keyword this and closure. now next to OPP in JS and still in 150 Videos, not yet 50% :(
+
+**Thoughts**  : Try to make new habits
+
+
+**Link to tweet**
+[Naufaldi Day 25](https://twitter.com/F2aldi/status/983015073303085056)
+
