@@ -641,3 +641,57 @@ Day 25 : April 08, 2018
 **Link to tweet**
 [Naufaldi Day 25](https://twitter.com/F2aldi/status/983015073303085056)
 
+<br>
+<h2 align="center">
+Day 26 : April 10, 2018
+</h2>
+ 
+**Today's Progress**:  forget to tweet yesterday
+Learning OOP in JS, HArd to understand inherince -_-
+
+**Thoughts**  : Try to make new habits
+
+
+**Link to tweet**
+[Naufaldi Day 26](https://twitter.com/F2aldi/status/983413549216088064)
+
+<br>
+<h2 align="center">
+Day 27 : April 11, 2018
+</h2>
+ 
+**Today's Progress**:  dunno this is count , i am doing Undergraduate Thesis  about scrum. Hope today is myday 
+
+**Thoughts**  : Try to make new habits
+
+
+**Link to tweet**
+[Naufaldi Day 27](https://twitter.com/F2aldi/status/983769265344921600)
+
+<br>
+<h2 align="center">
+Day 28 : April 16, 2018
+</h2>
+ 
+**Today's Progress**:  Learning some java for laboratory assistance structure data in UIN Malang.
+Going to understand hash table.
+
+**Thoughts**  : Try to make new habits
+
+
+**Link to tweet**
+[Naufaldi Day 28](https://twitter.com/F2aldi/status/985969627904720897)
+
+<br>
+<h2 align="center">
+Day 29 : April 17, 2018
+</h2>
+ 
+**Today's Progress**:   Learning algorith javascript in freecode camp . less doing code today than yesterday :(
+now try to continue learning react js
+**Thoughts**  : Try to make new habits
+
+
+**Link to tweet**
+[Naufaldi Day 29](https://twitter.com/F2aldi/status/986287912831533056)
+
