@@ -695,3 +695,16 @@ now try to continue learning react js
 **Link to tweet**
 [Naufaldi Day 29](https://twitter.com/F2aldi/status/986287912831533056)
 
+
+
+<br>
+<h2 align="center">
+Day 30 : April 18, 2018
+</h2>
+ 
+**Today's Progress**:   Learning Node JS and Mongo DB
+**Thoughts**  : Try to make new habits
+
+
+**Link to tweet**
+[Naufaldi Day 30](https://twitter.com/F2aldi/status/986641361129517056)
