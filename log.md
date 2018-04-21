@@ -708,3 +708,15 @@ Day 30 : April 18, 2018
 
 **Link to tweet**
 [Naufaldi Day 30](https://twitter.com/F2aldi/status/986641361129517056)
+
+<br>
+<h2 align="center">
+Day 31 : April 21, 2018
+</h2>
+ 
+**Today's Progress**:   Learning Create Update Node JS with Express and MongoDB
+**Thoughts**  : Try to make new habits
+
+
+**Link to tweet**
+[Naufaldi Day 31](https://twitter.com/F2aldi/status/986641361129517056)
