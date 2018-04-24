@@ -714,9 +714,59 @@ Day 30 : April 18, 2018
 Day 31 : April 21, 2018
 </h2>
  
-**Today's Progress**:   Learning Create Update Node JS with Express and MongoDB
+**Today's Progress**:  Learning Create Update Node JS with Express and MongoDB
 **Thoughts**  : Try to make new habits
 
 
 **Link to tweet**
-[Naufaldi Day 31](https://twitter.com/F2aldi/status/986641361129517056)
+[Naufaldi Day 31](https://twitter.com/F2aldi/status/987654632196399104)
+
+<br>
+<h2 align="center">
+Day 32 : April 22, 2018
+</h2>
+ 
+**Today's Progress**:  Success Create,Read an delete in Node JS+JQuery and MongoDB Hope today can finish this project and going to learning ES15 . 
+**Thoughts**  : Try to make new habits
+
+
+**Link to tweet**
+[Naufaldi Day 32](https://twitter.com/F2aldi/status/988081065448259584)
+
+
+<br>
+<h2 align="center">
+Day 33 : April 23, 2018
+</h2>
+ 
+**Today's Progress**:  Learning ES2015 From Arrow Function then we meetup for new Crew PHP User Malang
+**Thoughts**  : Try to make new habits
+
+
+**Link to tweet**
+[Naufaldi Day 33](https://twitter.com/F2aldi/status/988455056671358976)
+
+<br>
+<h2 align="center">
+Day 34 : April 24, 2018
+</h2>
+ 
+**Today's Progress**:    no code for today. But i am doing myundergraduate thesis about scrum. Doing for DFD and flow research
+**Thoughts**  : Try to make new habits
+
+
+**Link to tweet**
+[Naufaldi Day 34](https://twitter.com/F2aldi/status/988803355588755456)
+
+
+<br>
+<h2 align="center">
+Day 34 : April 24, 2018
+</h2>
+ 
+**Today's Progress**:    no code for today. But i am doing myundergraduate thesis about scrum. Doing for DFD and flow research
+**Thoughts**  : Try to make new habits
+
+
+**Link to tweet**
+[Naufaldi Day 34](https://twitter.com/F2aldi/status/986641361129517056)
