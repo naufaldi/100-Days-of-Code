@@ -770,3 +770,51 @@ Day 34 : April 24, 2018
 
 **Link to tweet**
 [Naufaldi Day 34](https://twitter.com/F2aldi/status/986641361129517056)
+
+<br>
+<h2 align="center">
+Day 35 : April 25, 2018
+</h2>
+ 
+**Today's Progress**:    Learning ES2015  Doing Udemy Course and now section about ES2015 From Rest, Spread, Object Destruction
+**Thoughts**  : Try to make new habits
+
+
+**Link to tweet**
+[Naufaldi Day 35](https://twitter.com/F2aldi/status/989551348172521472?s=20)
+
+<br>
+<h2 align="center">
+Day 36 : April 26, 2018
+</h2>
+ 
+**Today's Progress**:    Learning ES2015  Doing Udemy Course and now section about ES2015 From Rest, Spread, Object Destruction
+**Thoughts**  : Try to make new habits
+
+
+**Link to tweet**
+[Naufaldi Day 36](https://twitter.com/F2aldi/status/989551348172521472?s=20)
+
+<br>
+<h2 align="center">
+Day 37 : April 27, 2018
+</h2>
+ 
+**Today's Progress**:    Learning ES2015 About Class , Inheritance,Super, Maps and Set
+**Thoughts**  : Try to make new habits
+
+
+**Link to tweet**
+[Naufaldi Day 37](https://twitter.com/F2aldi/status/990268873109745664?s=20)
+
+<br>
+<h2 align="center">
+Day 38 : April 28, 2018
+</h2>
+ 
+**Today's Progress**:    Learning ES2015 About Class , Inheritance,Super, Maps and Set
+**Thoughts**  : Try to make new habits
+
+
+**Link to tweet**
+[Naufaldi Day 38](https://twitter.com/F2aldi/status/990268873109745664?s=20)
